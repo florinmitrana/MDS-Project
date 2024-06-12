@@ -15,14 +15,14 @@ router.get("/getallrestaurants", async (req,res) => {
 });
 
 router.post("/getrestaurantbyid", async (req, res) => {
-    const restaurantid = req.body.restaurantid;
-    console.log("Received restaurantid:", restaurantid); // Log pentru restaurantid
+    const restaurantid = req.query.restaurantid;
+    console.log("Am primit restaurantul:", restaurantid); // Log pentru restaurantid
     try {
         if (!restaurantid) {
             return res.status(400).json({ message: "Restaurant ID is required" });
         }
 
-        const restaurant = await Restaurant.findById(restaurantid);
+        const restaurant = await restaurant.findById(restaurantid);
         console.log("Found restaurant:", restaurant); // Log pentru restaurant
 
         if (!restaurant) {
@@ -31,7 +31,10 @@ router.post("/getrestaurantbyid", async (req, res) => {
 
         return res.json({ restaurant });
     } catch (error) {
-        console.error("Error fetching restaurant:", error);
+        console.error("Eroare la restaurant route:", error);
+        if (error.name === 'CastError') {
+            return res.status(400).json({ message: "Invalid restaurant ID" });
+        }
         return res.status(500).json({ message: "Internal server error" });
     }
 });
