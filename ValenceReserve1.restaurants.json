@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "664cdd08b4496f01cf39d45c"
+  },
+  "name": "Benihana Restaurant",
+  "imageurls": [
+    "https://www.restocracy.ro/wp-content/uploads/2017/03/Benihana-restaurantul-japonez-de-la-hotelul-Sheraton-din-Bucuresti-14-1024x498.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-s/1b/07/9e/1c/live-teppan-experience.jpg",
+    "https://explorebucharest.ro/wp-content/uploads/2019/02/CAL_0988.jpg",
+    "https://res.cloudinary.com/tf-lab/image/upload/w_1200,c_fill,g_auto:subject,q_auto,f_auto/pg_1/menu/98cd8c91-68b5-4e53-855e-3897f4aa9361/c6a2c3ff-9291-45c5-9739-1a396062bf47.jpg"
+  ],
+  "speciality": "Japanese",
+  "capacity": 150,
+  "description": "Best japanese restaurant in bucharest ",
+  "phonenumber": "0770732070",
+  "currentbookings": []
+},
+{
+  "_id": {
+    "$oid": "66507865b4496f01cf39d464"
+  },
+  "name": "Jeonjuu",
+  "imageurls": [
+    "https://media-cdn.tripadvisor.com/media/photo-s/29/d9/bf/a9/at-jeonjuu-our-aim-is.jpg",
+    "https://d2fdt3nym3n14p.cloudfront.net/venue/4001/gallery/21966/conversions/DSC08300-2-big.jpg",
+    "https://d2fdt3nym3n14p.cloudfront.net/venue/4001/gallery/21965/conversions/DSC08293-2-big.jpg",
+    "https://images.squarespace-cdn.com/content/v1/625f42d1bc014a5b299b3440/c9e42dd5-0740-4ca3-b903-88c2943033ab/Jeonjuu+Menu_Nutrition_Page+6+-+Bibimbap+%26+Grilled+Meats.jpg"
+  ],
+  "speciality": "Korean",
+  "capacity": 150,
+  "description": "Based in the heart of Old Town Bucharest, our menu is crafted to introduce you to an array of mouth-watering flavours, offering an unforgettable Korean table BBQ experience paired with a carefully selected range of drinks. We are dedicated to bringing the taste of Korea to Romania and providing our guests with an exceptional dining experience. Come join us and discover the rich and diverse culinary heritage of Korea right here in the heart of Bucharest.",
+  "phonenumber": "0770732070",
+  "currentbookings": []
+},
+{
+  "_id": {
+    "$oid": "6650786db4496f01cf39d465"
+  },
+  "name": "Japanos",
+  "imageurls": [
+    "https://d2fdt3nym3n14p.cloudfront.net/venue/3156/gallery/15221/conversions/WhatsApp-Image-2021-04-02-at-16.43.23-big.jpg",
+    "https://d2fdt3nym3n14p.cloudfront.net/venue/3156/gallery/13000/conversions/120778426_2500909586869675_8588588357004040686_o-big.jpg",
+    "https://d2fdt3nym3n14p.cloudfront.net/venue/3156/gallery/13003/conversions/121444467_2509929415967692_3713564478403781614_o-big.jpg",
+    "https://res.cloudinary.com/tf-lab/image/upload/w_1200,c_fill,g_auto:subject,q_auto,f_auto/pg_2/menu/2fac7c95-6536-4d40-b168-2d33b3498540/02c4ecd1-758f-44cd-ba9e-725a7e7d4cf8.jpg"
+  ],
+  "speciality": "Japaneese",
+  "capacity": 150,
+  "description": "Based in the heart of Old Town Bucharest, our menu is crafted to introduce you to an array of mouth-watering flavours, offering an unforgettable Korean table BBQ experience paired with a carefully selected range of drinks. We are dedicated to bringing the taste of Korea to Romania and providing our guests with an exceptional dining experience. Come join us and discover the rich and diverse culinary heritage of Korea right here in the heart of Bucharest.",
+  "phonenumber": "0770732070",
+  "currentbookings": []
+}]

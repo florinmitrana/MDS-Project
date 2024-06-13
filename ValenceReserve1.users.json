@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6668788cb189f5bedec2c884"
+  },
+  "name": "flo",
+  "email": "flo@flo.ro",
+  "password": "123",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-06-11T16:17:16.795Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T16:17:16.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66687cbe6e5f7ccd0b01784d"
+  },
+  "name": "dixanu",
+  "email": "dixanu@dixanu.ro",
+  "password": "123",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-06-11T16:35:10.293Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T16:35:10.293Z"
+  },
+  "__v": 0
+}]

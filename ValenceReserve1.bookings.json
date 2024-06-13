@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "666ac3d2f8df273f4e5d6705"
+  },
+  "restaurant": "Benihana Restaurant",
+  "name": "66687cbe6e5f7ccd0b01784d",
+  "date": "2024-06-18",
+  "hour": "03:02:03",
+  "maxCount": 150,
+  "createdAt": {
+    "$date": "2024-06-13T10:02:58.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T10:02:58.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ac56f3276e8ff50c37051"
+  },
+  "restaurant": "Benihana Restaurant",
+  "name": "dixanu",
+  "date": "2024-06-18",
+  "hour": "00:09:14",
+  "maxCount": 150,
+  "createdAt": {
+    "$date": "2024-06-13T10:09:51.984Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T10:09:51.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ac5743276e8ff50c37053"
+  },
+  "restaurant": "Benihana Restaurant",
+  "name": "dixanu",
+  "date": "2024-06-18",
+  "hour": "00:09:14",
+  "maxCount": 150,
+  "createdAt": {
+    "$date": "2024-06-13T10:09:56.759Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T10:09:56.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ac57b3276e8ff50c37055"
+  },
+  "restaurant": "Benihana Restaurant",
+  "name": "dixanu",
+  "date": "2024-06-18",
+  "hour": "00:09:14",
+  "maxCount": 150,
+  "createdAt": {
+    "$date": "2024-06-13T10:10:03.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T10:10:03.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b2f02c7ae6bb0ee582148"
+  },
+  "restaurant": "Benihana Restaurant",
+  "name": "flo",
+  "date": "2024-06-11",
+  "hour": "03:02:02",
+  "maxCount": 150,
+  "createdAt": {
+    "$date": "2024-06-13T17:40:18.933Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T17:40:18.933Z"
+  },
+  "__v": 0
+}]
