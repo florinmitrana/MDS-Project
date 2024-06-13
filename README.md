@@ -18,13 +18,11 @@ This project is a web application that allows users to make reservations at vari
 
 
 ### UML
-![UML](docs/uml_diagram.png)
-
+![UML](C:\Users\Dixi\Desktop\uml_diagram_complex.png)
 
 
 ### Minimum requirements
-
-
+- Resolved -> [Wiki](https://github.com/florinmitrana/MDS-Project/wiki/Wiki)
 
 ### Demo video
 
