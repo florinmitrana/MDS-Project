@@ -18,7 +18,7 @@ This project is a web application that allows users to make reservations at vari
 
 
 ### UML
-![UML](C:\Users\Dixi\Desktop\uml_diagram_complex.png)
+![UML](uml_diagram_complex.png)
 
 
 ### Minimum requirements
